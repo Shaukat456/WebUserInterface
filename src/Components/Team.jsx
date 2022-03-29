@@ -5,6 +5,7 @@ import {Fade, Slide} from 'react-reveal'
 import Contact from "./Contact";
 import Footer from './Footer'
 
+
 function Team() {
 
     return (
