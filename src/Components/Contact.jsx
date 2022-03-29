@@ -6,28 +6,28 @@ function Contact () {
         <div className="contact">
 
         <div className="row   ">
-            <div className="col text-light ">
+            <div className="col text-light my-5 py-5">
         <Lefth h1='CONTACT' h2='US' />
 
             </div>
 
 
-<div className="col">
+<div className="col my-5 py-5">
             <div className="row text-light">
                 <div className="col-6">
-                    <h2>YOUR NAME </h2>
+                    <h2>Your name  </h2>
                     <input type="text" placeholder='John Smith *'/>
 
                 </div>
                 <div className="col-6 w-100">
-                    <h2>E-MAIL </h2>
+                    <h2>E-mail </h2>
                     <input type="email" placeholder='Email' />
 
                 </div>
                 
                 <div className="col flex-column my-5">
 
-                    <div className="mx-3 ">
+                    <div className="my-5 ">
                     <h2>Tell Us About Your Project</h2>
                     <input type="text" className='w-100' placeholder='Type something or just leave this area empty' />
 
@@ -40,7 +40,15 @@ function Contact () {
         <div className="row">
             <div className="col">
 
-            <h1>RATE US</h1>
+            <div className="d-flex mx-2" style={{alignItems:'center'}}>
+                <figure>
+                    <img src="https://uploads-ssl.webflow.com/61221299a58304224ec08ab2/6139c3b6b9efb0a037897313_Group%20543.svg" className='text-underline' alt="" />
+                </figure>
+             <p className='mx-2'>
+             <u> hello@yggy.ai</u>
+             </p>
+            </div>
+
             </div>
 
             <div className="col d-flex">

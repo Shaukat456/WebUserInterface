@@ -1,6 +1,10 @@
 html{
   scroll-behavior: smooth;
 }
+*{
+  box-sizing: border-box;
+  transition: all .5s ease;
+}
 
 
 .hcomp{
@@ -276,7 +280,18 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,212,255,1) 1%, rgba
   /* font-size: ; */
 }
 .contact{
-  background-color: #111e35;
+  /* background-color: rgba(10, 22, 46, 0.8); */
+
+  border-style: solid;
+  border-width: 0.015rem;
+  border-color: hsla(0, 0%, 100%, 0.15);
+  border-radius: 30px;
+  background-color: rgba(10, 22, 46, 0.8);
+
+
+
+
+
 
 }
 .switch_wrap {
