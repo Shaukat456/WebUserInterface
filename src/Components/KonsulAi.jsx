@@ -1,6 +1,6 @@
 import Cards from "./Cards";
 import Lefth from "./lefthed";
-import secH from './SecH'
+// import SecH from './secH'
 
 function KonsulAi() {
     return (  <>

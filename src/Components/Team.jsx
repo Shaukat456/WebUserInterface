@@ -1,6 +1,6 @@
 import Members from "./Members";
 import Platform from "./Platform";
-import Sech from "./SecH";
+// import Sech from "./SecH";
 import {Fade, Slide} from 'react-reveal'
 import Contact from "./Contact";
 import Footer from './Footer'
