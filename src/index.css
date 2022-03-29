@@ -25,8 +25,9 @@ body{
     /* background-color: #091a36;; */
     /* background: rgb(2,0,36); */
 /* background: linear-gradient(90deg, rgba(2,20,36,1) 0%, rgba(29,0,121,1) 33%, rgba(0,212,255,1) 93%); */
-background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 65%, rgba(0,212,255,1) 100%);
+/* background: rgb(2,0,36); */
+background: url('https://uploads-ssl.webflow.com/61221299a58304224ec08ab2/61fb890ecf57ba67ad1ada3a_Frame-47542123-kjb.jpg');
+/* background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 65%, rgba(0,212,255,1) 100%); */
 /* overflow: hidden; */
 /* font-family: 'Mont', sans-serif; */
 font-family: 'Mont', sans-serif;

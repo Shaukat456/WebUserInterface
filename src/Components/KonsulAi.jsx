@@ -23,6 +23,15 @@ function KonsulAi() {
             <div className="col-6 my-5">
            <h1>DESIGN</h1>
 
+            <figure>
+      
+                <img src="https://uploads-ssl.webflow.com/61221299a58304224ec08ab2/612b6be997627b33ed8101e6_Vector_2.svg" alt="" />
+            </figure>
+
+
+
+
+
 
            <Lefth h1='SEE HOW ' h2='IT WORKS' />
             </div>
